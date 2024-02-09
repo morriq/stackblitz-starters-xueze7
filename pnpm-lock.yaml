@@ -16,7 +16,7 @@ dependencies:
     version: 18.2.7
   autoprefixer:
     specifier: 10.4.15
-    version: 10.4.15(postcss@8.4.30)
+    version: 10.4.15(postcss@8.4.31)
   eslint:
     specifier: 8.49.0
     version: 8.49.0
@@ -33,8 +33,8 @@ dependencies:
     specifier: ^3.0.3
     version: 3.0.3
   postcss:
-    specifier: 8.4.30
-    version: 8.4.30
+    specifier: 8.4.31
+    version: 8.4.31
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -581,7 +581,7 @@ packages:
       has-symbols: 1.0.3
     dev: false
 
-  /autoprefixer@10.4.15(postcss@8.4.30):
+  /autoprefixer@10.4.15(postcss@8.4.31):
     resolution: {integrity: sha512-KCuPB8ZCIqFdA4HwKXsvz7j6gvSDNhDP7WnUjBleRkKjPdvCmHFuQ77ocavI8FT6NdvlBnE2UFr2H4Mycn8Vew==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
@@ -593,7 +593,7 @@ packages:
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.0.0
-      postcss: 8.4.30
+      postcss: 8.4.31
       postcss-value-parser: 4.2.0
     dev: false
 
