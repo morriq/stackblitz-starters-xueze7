@@ -2,10 +2,9 @@
   "name": "nextjs",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "build": "next build",
-    "start": "NODE_ENV=production nodemon server.mjs"
+    "start": "NEXT_PUBLIC_ASSET_PATH=http://0 NODE_ENV=production nodemon server.js"
   },
   "dependencies": {
     "@types/node": "20.6.2",
